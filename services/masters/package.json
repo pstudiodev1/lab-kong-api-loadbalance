@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "prod": "node --max-old-space-size=8192 server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
